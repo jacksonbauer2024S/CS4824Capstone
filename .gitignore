@@ -1,0 +1,24 @@
+# Ignore data and large files
+data/raw/*
+data/processed/*
+data/external/*
+!data/README.md
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_save
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
