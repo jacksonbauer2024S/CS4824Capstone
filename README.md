@@ -22,6 +22,15 @@ Using citizen science data from EDDMapS, environmental features, and spatial lag
 - **Evaluation Metrics:** AUC, Precision, Recall, and F1-score
 
 
+## Instructions 
+
+Jupyter Notebooks can be found in the Notebooks directory.
+Notebooks should be ran in this order:
+1. data_cleaning.ipynb
+2. feature_engineering.ipynb
+3. ml_model.ipynb
+
+
 ## Data Access
 
 The datasets used in this project are too large to store directly in this repository.  
@@ -30,6 +39,7 @@ They are available for download via Google Drive:
 📁 **[Access Data Here](https://drive.google.com/drive/folders/1JfZAyMrxdpIDJ9Sw70aXtkf0S6_948iu?usp=sharing)**
 
 The data file should be extracted and placed in the main project directory.
+
 
 
 
