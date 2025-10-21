@@ -1,24 +1,14 @@
-# Ignore data and large files
-data/raw/*
-data/processed/*
-data/external/*
-!data/README.md
+# Ignore large data files
+CS4824CapstoneData/
+*.zip
+*.tif
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
 
-# Jupyter
-.ipynb_checkpoints/
-*.ipynb_save
-
-# Python cache
-__pycache__/
-*.pyc
-*.pyo
-
-# Environments
-.env
-.venv/
-env/
-venv/
-
-# OS files
+# Ignore temporary and system files
 .DS_Store
-Thumbs.db
+.ipynb_checkpoints/
+__pycache__/
