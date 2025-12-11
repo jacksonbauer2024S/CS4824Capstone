@@ -32,7 +32,8 @@ They are available for download via Google Drive:
 
 **[Access Data Here](https://drive.google.com/drive/folders/1JfZAyMrxdpIDJ9Sw70aXtkf0S6_948iu?usp=sharing)**
 
-The data file should be extracted and placed in the main project directory.
+The data folder should be extracted and placed in the main project directory.
+
 
 
 
