@@ -1,4 +1,4 @@
-# Modeling and Predicting the Spread of the Spotted Lanternfly in the United States Using Machine Learning
+# Modeling and Forecasting the Spread of the Spotted Lanternfly in the United States Using Machine Learning
 
 ### Author
 Jackson Bauer  
@@ -33,6 +33,7 @@ They are available for download via Google Drive:
 **[Access Data Here](https://drive.google.com/drive/folders/1JfZAyMrxdpIDJ9Sw70aXtkf0S6_948iu?usp=sharing)**
 
 The data folder should be extracted and placed in the main project directory.
+
 
 
 
